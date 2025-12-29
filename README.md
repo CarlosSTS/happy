@@ -15,7 +15,7 @@ O app contém os seguintes módulos
 <table>
   <tr>
 <td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/v1766429586/github_projects/happy/dashboard.png" alt="Foto do App dashboard" width="360" /></td>
-<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/v1766429614/github_projects/happy/selected.png" alt="Foto do App seleção do mapa" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/v1766429614/github_projects/happy/selectedPoint.png" alt="Foto do App seleção do mapa" width="360" /></td>
 <td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/v1766429619/github_projects/happy/selectedPoint.png" alt="Foto do App local selecionado" width="360" /></td>
 </tr>
 </table>
@@ -24,7 +24,7 @@ O app contém os seguintes módulos
 <tr>
 <td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/v1766429593/github_projects/happy/form1.png" alt="Foto do App Formulário" width="360" /></td>
 <td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/v1766429596/github_projects/happy/form2.png" alt="Foto do App Formulário" width="360" /></td>
-<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/v1766429619/github_projects/happy/selectedPoint.png" alt="Foto do App seleçãoDoOrfanato" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/v1766429619/github_projects/happy/selected.png" alt="Foto do App seleçãoDoOrfanato" width="360" /></td>
 </tr>
 </table>
 
